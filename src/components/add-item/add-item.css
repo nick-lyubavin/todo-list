@@ -1,0 +1,12 @@
+.add-item {
+    margin-top: 10px;    
+}
+
+.add-item__input {    
+    max-width: 100%;    
+}
+
+.add-item__button {    
+    margin-left: 12px;
+    width: 40px;    
+}

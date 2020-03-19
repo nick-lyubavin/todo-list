@@ -1,0 +1,18 @@
+.button {
+  margin-left: 5px;
+  width: 30px;
+}
+
+.todo-list-item.done .todo-list-item-label {
+  text-decoration: line-through;
+}
+
+.todo-list-item-label {
+    color: black;
+    font-weight: 400;
+}
+
+.todo-list-item.important .todo-list-item-label {
+    color: steelblue;
+    font-weight: 700;
+}
